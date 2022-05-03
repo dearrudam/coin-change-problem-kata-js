@@ -1,10 +1,11 @@
 {
-  "name": "coin-amount-kata",
+  "name": "coin-change-problem-kata-js",
   "version": "1.0.0",
-  "main": "coin-amount.js",
+  "main": "coin-change-problem-kata.js",
   "license": "MIT",
   "scripts": {
-    "test": "jest --watchAll"
+    "test": "jest --maxWorkers=1",
+    "test-watch": "jest --watchAll --maxWorkers=1"
   },
   "devDependencies": {
     "jest": "^28.0.3"
