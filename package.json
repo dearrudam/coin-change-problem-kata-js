@@ -1,0 +1,12 @@
+{
+  "name": "coin-amount-kata",
+  "version": "1.0.0",
+  "main": "coin-amount.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
