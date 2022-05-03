@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "coin-change-problem-kata.js",
   "license": "MIT",
+  "repository": {"url": "https://github.com/dearrudam/coin-change-problem-kata-js"},
   "scripts": {
     "test": "jest --maxWorkers=1",
     "test-watch": "jest --watchAll --maxWorkers=1"
